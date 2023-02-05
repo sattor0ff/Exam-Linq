@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "HrvHRCjm2cvlBc0Ob1jNG3YOKcjqVOOHjlFGihpwpVGhQKfzP9PC/PcSg9iPF5I0jlQlMMug4d+LcoKaln35Uw==",
+  "success": true,
+  "projectFilePath": "D:\\CSharpPractices\\Exam8.04.02\\Domain\\Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ARDASHER\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\7.0.2\\microsoft.entityframeworkcore.abstractions.7.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}
